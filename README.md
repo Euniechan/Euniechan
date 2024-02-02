@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, 'm Eunie</h1>
+<h1 align="center">Hi 👋, I'm Eunie</h1>
 
 ###
 
