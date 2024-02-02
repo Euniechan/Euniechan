@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning Html, Javascript, Python and Java programming languages</p>
+- 🌱 I’m currently learning **Html, Javascript, Python and Java programming languages**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
