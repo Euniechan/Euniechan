@@ -3,7 +3,7 @@
 
 ###
 
-<h4 align="left">I'm an enthusiastic newbie in front-end and back-end development, driven by the excitement of turning concepts into useful, user-friendly applications. Always eager to learn, grow, and contribute to the ever-evolving world of technology.</h4>
+<h4 align="left">I'm a newbie in front-end and back-end development. Always eager to learn, grow, and contribute to the ever-evolving world of technology.</h4>
 
 ###
 
